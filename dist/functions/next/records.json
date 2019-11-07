@@ -109,18 +109,22 @@
       "static\\KM_XYzIuYZEITalZZKu1v\\pages\\_error.js": 4,
       "static\\KM_XYzIuYZEITalZZKu1v\\pages\\index.js": 5,
       "static\\KM_XYzIuYZEITalZZKu1v\\pages\\ride.js": 6,
-      "styles": 7
+      "styles": 7,
+      "static\\M1qTH5DCoBjMaTfMtY4xX\\pages\\_app.js": 8,
+      "static\\M1qTH5DCoBjMaTfMtY4xX\\pages\\_error.js": 9,
+      "static\\M1qTH5DCoBjMaTfMtY4xX\\pages\\index.js": 10,
+      "static\\M1qTH5DCoBjMaTfMtY4xX\\pages\\ride.js": 11
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
+      10,
+      11,
       2,
-      3,
-      4,
-      5,
-      6,
-      7
+      7,
+      8,
+      9
     ]
   }
 }
